@@ -1,0 +1,19 @@
+.zd-paragraph {
+  box-sizing: border-box;
+  position: relative;
+  font-size: 14px;
+  line-height: 22px;
+  word-break: break-word;
+}
+
+.zd-paragraph-expand {
+  color: #1677ff;
+  text-decoration: none;
+  outline: none;
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background: none;
+  user-select: none;
+  margin-left: 4px;
+}
