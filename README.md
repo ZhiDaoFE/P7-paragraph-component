@@ -85,7 +85,7 @@
 
 就点击加入 [**之道前端**](https://kcnrozgf41zs.feishu.cn/wiki/PBj0w5rjUiEWVgktZE0caKOunNc) 吧，海量原创项目和众多学习伙伴在等着你！
 
-<这里放公众号二维码>
+![公众号二维码](./res/qrcode.jpg)
 
 > **学前端，来之道 —— 陪伴式自学前端圈子**
 
